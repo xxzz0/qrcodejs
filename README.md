@@ -1,6 +1,11 @@
-# xx笔记
 
-## 直接获取base64字符串
+# QRCode.js
+QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
+QRCode.js has no dependencies.
+
+## xx笔记
+
+### 直接获取base64字符串
 
 ```
 xx.QRCode = function (options) {
@@ -21,10 +26,6 @@ xx.QRCode = function (options) {
     return api;
 }
 ```
-
-# QRCode.js
-QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
-QRCode.js has no dependencies.
 
 ## Basic Usages
 ```
